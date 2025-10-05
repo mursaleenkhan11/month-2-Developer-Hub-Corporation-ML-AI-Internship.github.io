@@ -1,6 +1,3 @@
-Here’s how you can structure your **GitHub repository** and create a **clear, professional `README.md`** for your “House Price Prediction (Images + Tabular Data)” project 👇
-
----
 
 ## 🗂 **Repository Name and Organization**
 
@@ -134,7 +131,7 @@ This fusion aims to improve prediction accuracy beyond what’s possible using o
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/house-price-prediction-multimodal.git
+   git clone https://github.com/<mursaleenkhan11>/house-price-prediction-multimodal.git
    cd house-price-prediction-multimodal
 ````
 
@@ -158,15 +155,4 @@ This fusion aims to improve prediction accuracy beyond what’s possible using o
 * Implement hyperparameter tuning for the dense layers.
 * Add geospatial features (latitude, longitude).
 * Test additional pre-trained models like EfficientNet.
-
----
-
-## 👨‍💻 Author
-
-**Huzaima Aneeq**
-*Computer Science Student & ML Engineer*
-📧 [Your Email Here]
-🔗 [LinkedIn / Portfolio (optional)]
-
-```
 
