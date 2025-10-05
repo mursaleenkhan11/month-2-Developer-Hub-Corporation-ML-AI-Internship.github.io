@@ -131,7 +131,7 @@ This fusion aims to improve prediction accuracy beyond what’s possible using o
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<mursaleenkhan11>/house-price-prediction-multimodal.git
+   git clone https://github.com/mursaleenkhan11/house-price-prediction-multimodal.git
    cd house-price-prediction-multimodal
 ````
 
