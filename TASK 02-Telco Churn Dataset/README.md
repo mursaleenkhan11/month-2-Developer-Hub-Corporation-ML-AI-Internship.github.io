@@ -1,5 +1,3 @@
----
-
 # 📂 Repository Name: **Telco-Customer-Churn-Prediction**
 
 ## 🏢 Organization
@@ -90,15 +88,3 @@ Telco-Customer-Churn-Prediction/
 ├── README.md                              # Project documentation
 ├── requirements.txt                       # Dependencies list (optional)
 └── /data                                  # Dataset directory (if applicable)
-```
-
----
-
-## 🏁 Summary
-
-This project demonstrates how **machine learning can predict customer churn** in the telecom sector using a combination of **numerical and categorical data**.
-It highlights the importance of **data preprocessing**, **model comparison**, and **interpretation of results** to make business-driven decisions.
-
----
-
-Would you like me to create and attach this as a downloadable `README.md` file for your GitHub repository?
